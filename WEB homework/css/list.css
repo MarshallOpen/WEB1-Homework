@@ -1,0 +1,11 @@
+/* CSS Document */
+.lists{width: 1000px;margin: 0px auto;border-left: 3px solid #2E59CD;border-right:3px solid #2E59CD ;background: #FFFFFF}
+.lists ul a{text-decoration: none;color:#292929}
+.lists ul a:hover{text-decoration: underline;color:#2E59CD; }
+#bread{width:1050px;margin: auto;}
+.mianbaoxie{width:1000px;margin:0px auto;}
+.mianbaoxie ul{width:1000px;list-style: none;}
+.mianbaoxie ul li{margin-right:30px;float:left;}
+.mianbaoxie ul li a{text-decoration: none;color: #292929}
+.mianbaoxie ul li a:hover{text-decoration: underline; color: #2E59CD}
+.line{margin:5px;}
